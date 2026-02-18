@@ -1,0 +1,15 @@
+ Notes:
+
+OOPs- Object Oriented Programing Systems.
+
+OOP : It is a design pattern or paradigm , helps to develop real world 
+software like ola, uber, flipkart ..etc. by considering real world entities.
+
+OBJECT: object means real world entity which is existing physically. Ex: pen
+
+What is object from java point of view?
+	Object is one block of memory which has multiple variable and methods.
+	
+Why do we need object?
+Object is used To represent real world entity in software world.
+

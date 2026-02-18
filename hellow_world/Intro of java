@@ -1,0 +1,114 @@
+1.	Another name of java ?  wora
+2.	Who introduced java? James Gosling
+3.	Which company introduced java? SMS(sun micro system)
+4.	What is the previous name of java? OAK- strong
+5.	In which year, java has been introduced ? In the year 1995
+6.	Who is current owner of java? ORACLE.          
+
+WHAT IS JAVA:
+
+     > Java is high lever object oriented programing language designed to platform independed ,
+       it's meaning code writted in java can run any device with a jvm . It was created by JAMES GOSLLING
+       and released by SUN MICROSYSTEM in 1995.
+     > Today it's widely used in web , mobile ,desktop and enteprice application.
+     
+CURRENT VERSION:
+     JAVA SE  25,  release as of September 2025.
+
+STRUCTURE OF JAVA PROGRAM
+
+   >Create a file , Compilation, Execute.
+   
+ MEANING FOR PLATFORM (OS)
+   
+   >Platform indepentent
+       Write Once run anywhere
+       
+   >Platform Depends
+       Can Run only on specific operating system
+       
+ TOKEN 
+ 
+     >Token are nothing ,but smallest component of any programing Language.
+     >Programing Language Should also have alphabets & words that is Called as token.
+     
+ CONVENTION:-
+
+        Convention are nothing but industry standard. programmer we have to follow.
+ With respect to naming convention we have to upper camel case means every 1st letter should be in capital Letter.
+ 
+ 
+ PLATFORM:
+    Hardware and Software is called platform.
+
+
+
+JAVA COMPLIER:
+    > Java complier is program that translate java source code into bytecode. 
+    then byte code execute by the java virtual machine (JVM)
+    
+          * Translation: Convert human - relatable java code into machine code
+          * error detection : check for syntax error in  the source code during the compilation code process.
+          * Optimization : Optimizes the byte code for better performance.
+          
+          
+ Object - Oriented:
+       Focuses on objects and classes , making code reusable and modular.
+       
+ Robust : Includes String memory Management, exception handi=ling and garbage collection System.  
+ 
+ Garbage collection : is the process by which the (JVM ) Automatically 
+                   removes unused objects from memory to free-up space and improve performance.
+                   
+ Wrappper Class: 
+          > Wrapper class provided a way to use primitive data type
+          > Wrapper class provided the machanism  to convert primitve into obj and obj into primitive.
+ INTERVIEW QUESION:
+      invalid error in java:
+      * Stackoverflow
+      *  outofmemoryerror
+      
+      
+                JVM Memory
+   ------------------------
+   |       Stack          |  <-- Stores method calls, local variables
+   |----------------------|
+   | main()               |
+   | recursive()          |
+   | recursive()          |
+   | ...                  |
+   ------------------------
+        ↑
+        |   If too many method calls (deep recursion)
+        |   → StackOverflowError
+        ↓
+   ------------------------
+   |        Heap          |  <-- Stores objects, arrays, class instances
+   |----------------------|
+   | new Object()         |
+   | new int[1000000]     |
+   | ...                  |
+   ------------------------
+        ↑
+        |   If too many objects or very large objects allocated
+        |   → OutOfMemoryError
+        ↓
+   ------------------------
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ > Operator
+ >interface
+ 
+
+ >Stock overflow , outofmemry
+
+  >run (), runnable interfae    
+ >file handling
+ >throw , throws
+ > Serialixable , deseriablibel
+ > >synchronized
