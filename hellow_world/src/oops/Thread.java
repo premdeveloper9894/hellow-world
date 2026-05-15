@@ -5,7 +5,9 @@ public class Thread {
 	public static void main(String[] args) {
 		/*
 		 * > Thread is class
-		 * > A JAva thread is  lightweight part of a program that runs independently.
+		 * > A JAva thread is  lightweight part in java application.it's runs independently.
+		   > it's is used to perform multiple task simulteneously.
+		   > java support  multiple threading to improve application performance and reduce exucution time.
 		 */
 		
 		/*
