@@ -8,6 +8,7 @@ public class Serializable_Deserializable {
 /*
  * > Serializable is a marker interface in Java.
  * > A marker interface is an interface with no methods.
+    > Present is java.io package.
    > Serialization means converting an Java object into a file (or byte stream) 
      so that it can be saved or sent somewhere.
    > Think: Java Object → File (byte Stream )
